@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.ustclasssuspensionupdater" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/a"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".USTClassSuspensionUpdater"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".USTClassSuspensionUpdater2"
+            android:label="@string/title_activity_ustclass_suspension_updater2" >
+        </activity>
+        <activity
+            android:name=".Announcement"
+            android:label="@string/title_activity_announcement" >
+        </activity>
+        <activity
+            android:name=".Calendar"
+            android:label="@string/title_activity_calendar" >
+        </activity>
+        <activity
+            android:name=".Weather_Bulletin"
+            android:label="@string/title_activity_weather__bulletin" >
+        </activity>
+    </application>
+
+</manifest>
