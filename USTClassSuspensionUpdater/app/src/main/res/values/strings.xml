@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UST Class Suspension Updater</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ustclass_suspension_updater2">USTClassSuspensionUpdater2</string>
+    <string name="title_activity_announcement">Announcement</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="title_activity_weather__bulletin">Weather_Bulletin</string>
+
+</resources>
